@@ -44,3 +44,5 @@ qualified_numbers = (URL, window_size)
 
 for number, qualifications in qualified_numbers:
     print(f"Number: {number}, Qualifications: {qualifications}")
+
+
